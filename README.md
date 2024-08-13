@@ -2,8 +2,8 @@
 Data and code to read in the data from the paper: "Two methods to analyse radial diffusion ensembles: the peril of space- and time- dependent diffusion"
 
 # Contents of this repo
-RadialDiffusionMetrics.ipynb A Jupyter notebook that can create all plots used in the paper. 
-ensemble_functions.py A Python script needed to generate any smaller simulations (i.e. where ensembles have not been used).
+1. `RadialDiffusionMetrics.ipynb` A Jupyter notebook that can create all plots used in the paper.
+2. `ensemble_functions.py` A Python script needed to generate any smaller simulations (i.e. where ensembles have not been used).
 
 # How to get started
 
